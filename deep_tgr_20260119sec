@@ -1,13 +1,13 @@
 {
   "app_version": "1.0.0",
   "api_url": "https://api.ykt.com",
-  "api_url_code": "40790112313",
+  "api_url_code": "31340790112",
   "features": {
     "enable_camera": true,
     "enable_offline": true,
     "max_file_size": 5242880,
     "min_misc_size": 43517780
   },
-  "last_updated": "2025-01-01 12:00:00"
+  "last_updated": "2025-01-19 12:00:00"
 }
 
