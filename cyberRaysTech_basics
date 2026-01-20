@@ -8,7 +8,7 @@
     "enable_offline": false,
     "app_enabled": true,
     "app_expired": false,
-    "max_launch_count": 253
+    "max_launch_count": 553
   },
   "retire_date": "2026-02-01 12:00:00"
 }
