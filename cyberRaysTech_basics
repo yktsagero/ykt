@@ -6,8 +6,8 @@
   "features": {
     "enable_camera": true,
     "enable_offline": true,
-    "app_enabled": true,
-    "app_expired": true,
+    "app_enabled": false,
+    "app_expired": false,
     "max_launch_count": 253
   },
   "retire_date": "2026-02-01 12:00:00"
