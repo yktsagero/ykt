@@ -10,6 +10,6 @@
     "app_expired": true,
     "max_launch_count": 5242880,
   },
-  "last_updated": "2026-01-20 12:00:00"
+  "retire_date": "2026-02-01 12:00:00"
 }
 
