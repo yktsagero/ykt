@@ -1,1 +1,15 @@
-EGf7ewgvNy8tkW6D{fL}lojFNDXw.O2jg}5P{|UQ45}dt2SOMg8Z7xn}pe3IOsDuks\Nds6i]4dmv6J.Q]|QF5zgSrId.7]kGPtzkEet:O6PD9GoNVw[YWL<WXp.<q{HnkeVPF\vgQ7fu2r4eY9gE}Y{npdgUS.KfIw:f:V]ZR<fqHSgyQ{;TGNq3UTG{QV\NnfgT.lSETrOEHWHo{DV<nwuhK4uYVnhX.:PYDy}|NnK;8.L{xdmvrYK;Q]o|ymh}:U9s<svHmwSX;tmM<eFuYihRuOTWDU.TypZm;ERmEELMIsp|WR}2Vg]leq5E65ViFtlNMEEnw[{HIX:.;7rEP9x;SX\}{JJUJ|J<fqS\Eo5qKPFJJZ2F3y3oKYQo}Q;Ev45gjmruNm8yhSg:qK|gr9<|N3yRNPi:.SJuy6d<Dv@
+{
+  "app_version": "1.3.3",
+  "api_url": "https://api.ykt.com",
+  "api_code": "40140755133",
+  "local_g": "RIMI",
+  "features": {
+    "enable_camera": true,
+    "enable_offline": true,
+    "app_enabled": true,
+    "app_expired": false,
+    "max_launch_count": 553
+  },
+  "retire_date": "2026-02-01 12:00:00"
+}
+
