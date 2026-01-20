@@ -1,7 +1,7 @@
 {
   "app_version": "1.3.3",
   "api_url": "https://api.ykt.com",
-  "api_url_code": "40140755133",
+  "api_code": "40140755133",
   "local_g": "RIMI",
   "features": {
     "enable_camera": true,
