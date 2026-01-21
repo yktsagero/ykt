@@ -1,7 +1,7 @@
 {
-  "app_version": "1.0.0",
-  "api_url": "https://api.ykt.com",
-  "api_url_code": "31340790111",
+  "app_version": "1.0",
+  "api_url": "https://api.com",
+  "api_url_code": "1234567890",
   "features": {
     "enable_camera": true,
     "enable_offline": true,
